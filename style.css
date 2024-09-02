@@ -1,0 +1,18 @@
+p {
+  color: purple;
+  font-size: 24px;
+}
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 48px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+li {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
